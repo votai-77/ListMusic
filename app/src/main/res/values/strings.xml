@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListMusic</string>
+    <string name="MusicRockAndRing">MUSIC ROCK AND RING</string>
+    <string name="Ready">READY GO</string>
+    <string name="exit">Exit</string>
+    <string name="name">Name</string>
+    <string name="singser">Singer</string>
+</resources>
